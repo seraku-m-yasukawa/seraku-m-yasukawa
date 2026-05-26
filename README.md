@@ -2,6 +2,8 @@
 
 ### Repositories
 - [Automation-SFA-Task](https://github.com/seraku-m-yasukawa/Automation-SFA-Task)
+- [vibe-coding-for-beginners](https://github.com/seraku-m-yasukawa/vibe-coding-for-beginners)
+- [zoo-workspace-config](https://github.com/seraku-m-yasukawa/zoo-workspace-config)
 
 <!--
 **seraku-m-yasukawa/seraku-m-yasukawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
